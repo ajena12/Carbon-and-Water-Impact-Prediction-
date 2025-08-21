@@ -1,0 +1,5 @@
+mode,ef_kg_per_ton_km,cost_per_ton_km
+truck,0.1,0.09
+rail,0.03,0.05
+ship,0.015,0.03
+air,0.6,0.8
