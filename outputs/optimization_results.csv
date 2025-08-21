@@ -1,0 +1,17 @@
+from_type,from_id,to_type,to_id,flow_tons,flow_units
+supplier,S004,factory,F01,3.426,
+supplier,S006,factory,F03,2.6184,
+supplier,S013,factory,F05,4.5324,
+supplier,S014,factory,F04,3.9436,
+factory,F01,region,R003,,4273.0
+factory,F01,region,R004,,3070.0
+factory,F01,region,R009,,1222.0
+factory,F03,region,R001,,1206.0
+factory,F03,region,R006,,5340.0
+factory,F04,region,R001,,1098.0
+factory,F04,region,R002,,4231.0
+factory,F04,region,R007,,2528.0
+factory,F04,region,R008,,2002.0
+factory,F05,region,R005,,4190.0
+factory,F05,region,R009,,4771.0
+factory,F05,region,R010,,2370.0
